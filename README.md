@@ -1,2 +1,1 @@
-# Blink-Two-LEDs-Alternately
-Arduino C++ code and video demonstration showing two LEDs blinking alternately on an Arduino Uno board. 
+Upload a short video demonstration showing that you can blink two leds alternately for your Arduino Uno Kit. 
